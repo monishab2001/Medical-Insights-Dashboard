@@ -19,7 +19,7 @@ This project is developed using Power BI, leveraging Power Query for data transf
 
 6. Publish to Power BI Service if needed. 
 
-[View my Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiMDU4Y2YwMzUtY2MwMS00OWI2LWIyMWQtZTIyYjY3M2I2ZDA1IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9&embedImagePlaceholder=true) 
+[Access the Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiMDU4Y2YwMzUtY2MwMS00OWI2LWIyMWQtZTIyYjY3M2I2ZDA1IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9&embedImagePlaceholder=true) 
 
 ## Steps to Build the Dashboards
 
@@ -69,4 +69,4 @@ This project is developed using Power BI, leveraging Power Query for data transf
 - Pinned the report to the dashboard.
 - Downloaded the **Power BI report** file for future use.
 - Published to web so that users can view and interact via the link generated.  
-  [View my Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiMDU4Y2YwMzUtY2MwMS00OWI2LWIyMWQtZTIyYjY3M2I2ZDA1IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9&embedImagePlaceholder=true) 
+  [Access the Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiMDU4Y2YwMzUtY2MwMS00OWI2LWIyMWQtZTIyYjY3M2I2ZDA1IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9&embedImagePlaceholder=true) 
